@@ -176,7 +176,7 @@ worker3.kube.local         : ok=19   changed=16   unreachable=0    failed=0
 
 
 ## SSH to the master node
-```ssh kube@192.168.11.120```
+```ssh kube@192.168.122.10```
 
 Change the ip address to whatever you made the master.  The default username / password is kube / kubernetes
 
